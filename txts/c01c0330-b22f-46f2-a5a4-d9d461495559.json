@@ -1,0 +1,254 @@
+[
+  {
+    "tagName": "table",
+    "textContent": "User IDFirst NameLast NameEmail AddressEditDelete1LeanneGrahamSincere@april.bizEditDelete2ErvinHowellShanna@melissa.tvEditDelete3ClementineBauchNathan@yesenia.netEditDelete4PatriciaLebsackJulianne.OConner@kory.orgEditDelete5ChelseyDietrichLucio_Hettinger@annie.caEditDelete6Mrs.DennisKarley_Dach@jasper.infoEditDelete7KurtisWeissnatTelly.Hoeger@billy.bizEditDelete8NicholasRunolfsdottirSherwood@rosamond.meEditDelete9GlennaReichertChaim_McDermott@dana.ioEditDelete10ClementinaDuBuqueRey.Padberg@karina.bizEditDelete",
+    "styles": {
+      "color": "rgb(44, 62, 80)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "table"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "styles": {
+      "color": "rgb(79, 70, 229)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "styles": {
+      "color": "rgb(220, 38, 38)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "margin": "0px",
+      "padding": "0px",
+      "display": "inline-block"
+    }
+  }
+]

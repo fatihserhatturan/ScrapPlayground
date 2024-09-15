@@ -1,7 +1,8 @@
 const { chromium } = require('playwright');
 const NetworkRequest = require('../models/netwokRequest.js'); // Modeli dahil et
 
-(async () => {
+// URL parametresini alır, ağ isteklerini yakalar ve döndürür
+async function getNetworkRequests(url) {
   // Tarayıcıyı başlat
   const browser = await chromium.launch();
   const page = await browser.newPage();
@@ -17,7 +18,7 @@ const NetworkRequest = require('../models/netwokRequest.js'); // Modeli dahil et
     requestStartTimes.set(request.url(), Date.now());
   });
 
-  // Ağ isteğini yakalayın
+  // Ağ isteğini başarılı şekilde tamamlandığında yakalayın
   page.on('requestfinished', async (request) => {
     try {
       const response = await request.response();
@@ -29,24 +30,47 @@ const NetworkRequest = require('../models/netwokRequest.js'); // Modeli dahil et
         request.method(),
         request.resourceType(),
         response.headers()['content-type'] || 'unknown',
-        Date.now() - startTime // Süreyi hesaplayın
+        Date.now() - startTime,  // Süreyi hesaplayın
+        'success',  // Başarılı istek için status
+        null        // Başarılı isteklerde hata mesajı yok
       );
 
       networkRequests.push(requestData);
     } catch (error) {
-      console.error('Error fetching response:', error);
+      console.error('Response hatası:', error);
     }
   });
 
+  // Hatalı istekleri yakalayın ve status error olarak işaretleyin
+  page.on('requestfailed', (request) => {
+    const startTime = requestStartTimes.get(request.url()) || Date.now(); // Başlangıç zamanı
+
+    const requestData = new NetworkRequest(
+      request.url(),
+      request.method(),
+      request.resourceType(),
+      'unknown', // Hatalı isteğin response type'ı bilinmiyor
+      Date.now() - startTime, // Süreyi hesaplayın
+      'error',  // Hatalı istek için status
+      request.failure().errorText  // Hata mesajını ekleyin
+    );
+
+    networkRequests.push(requestData);
+    console.log(`Request failed: ${request.url()} with error: ${request.failure().errorText}`);
+  });
+
   // Sayfayı aç
-  await page.goto('https://vue-indol-two.vercel.app/');  // Kendi URL'nizi buraya ekleyin
+  await page.goto(url);
 
-  // Biraz bekle, sayfanın tüm isteklerinin tamamlanması için
-  await page.waitForTimeout(5000);
-
-  // Tüm istekleri konsola yazdır
-  console.log(JSON.stringify(networkRequests, null, 2));
+  // Tüm isteklerin tamamlanması için bekle
+  await page.waitForTimeout(2000);
 
   // Tarayıcıyı kapat
   await browser.close();
-})();
+
+  // Ağ isteklerini döndür
+  return networkRequests;
+}
+
+// Fonksiyonu dışa aktar
+module.exports = { getNetworkRequests };

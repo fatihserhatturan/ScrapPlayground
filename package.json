@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "playwright": "^1.47.0",
+    "lighthouse": "^12.2.1",
+    "playwright": "^1.47.1",
     "puppeteer": "^23.3.0",
     "uuid": "^10.0.0"
   },

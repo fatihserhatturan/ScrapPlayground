@@ -1,0 +1,1332 @@
+[
+  {
+    "tagName": "ul",
+    "textContent": "| Home",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "| Home",
+    "attributes": {
+      "id": "",
+      "class": "mb-6",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "table",
+    "textContent": "User IDFirst NameLast NameEmail AddressEditDelete1LeanneGrahamSincere@april.bizEditDelete2ErvinHowellShanna@melissa.tvEditDelete3ClementineBauchNathan@yesenia.netEditDelete4PatriciaLebsackJulianne.OConner@kory.orgEditDelete5ChelseyDietrichLucio_Hettinger@annie.caEditDelete6Mrs.DennisKarley_Dach@jasper.infoEditDelete7KurtisWeissnatTelly.Hoeger@billy.bizEditDelete8NicholasRunolfsdottirSherwood@rosamond.meEditDelete9GlennaReichertChaim_McDermott@dana.ioEditDelete10ClementinaDuBuqueRey.Padberg@karina.bizEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "min-w-full divide-y divide-gray-200",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "User IDFirst NameLast NameEmail AddressEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "1LeanneGrahamSincere@april.bizEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "2ErvinHowellShanna@melissa.tvEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "3ClementineBauchNathan@yesenia.netEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "4PatriciaLebsackJulianne.OConner@kory.orgEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "5ChelseyDietrichLucio_Hettinger@annie.caEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "6Mrs.DennisKarley_Dach@jasper.infoEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "7KurtisWeissnatTelly.Hoeger@billy.bizEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "8NicholasRunolfsdottirSherwood@rosamond.meEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "9GlennaReichertChaim_McDermott@dana.ioEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "tr",
+    "textContent": "10ClementinaDuBuqueRey.Padberg@karina.bizEditDelete",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-row"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "1",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Leanne",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Graham",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Sincere@april.biz",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "2",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Ervin",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Howell",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Shanna@melissa.tv",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "3",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Clementine",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Bauch",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Nathan@yesenia.net",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "4",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Patricia",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Lebsack",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Julianne.OConner@kory.org",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "5",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Chelsey",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Dietrich",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Lucio_Hettinger@annie.ca",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "6",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Mrs.",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Dennis",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Karley_Dach@jasper.info",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "7",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Kurtis",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Weissnat",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Telly.Hoeger@billy.biz",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "8",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Nicholas",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Runolfsdottir",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Sherwood@rosamond.me",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "9",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Glenna",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Reichert",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Chaim_McDermott@dana.io",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "10",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Clementina",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "DuBuque",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Rey.Padberg@karina.biz",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-sm text-gray-500",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "td",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "px-6 py-4 whitespace-nowrap text-right text-sm font-medium",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "table-cell"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "| Home",
+    "attributes": {
+      "id": "",
+      "class": "router-link-active router-link-exact-active sidebar-link",
+      "href": "https://vue-indol-two.vercel.app/",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Edit",
+    "attributes": {
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "button",
+    "textContent": "Delete",
+    "attributes": {
+      "id": "",
+      "class": "text-red-600 hover:text-red-900",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  }
+]

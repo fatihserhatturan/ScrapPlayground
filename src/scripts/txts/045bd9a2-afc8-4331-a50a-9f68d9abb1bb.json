@@ -1,0 +1,4342 @@
+[
+  {
+    "tagName": "h1",
+    "textContent": "CDPSession",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "h2",
+    "textContent": "Methods​",
+    "attributes": {
+      "id": "methods",
+      "class": "anchor anchorWithStickyNavbar_LWe7",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "h3",
+    "textContent": "detach​",
+    "attributes": {
+      "id": "cdp-session-detach",
+      "class": "anchor anchorWithStickyNavbar_LWe7",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "h3",
+    "textContent": "send​",
+    "attributes": {
+      "id": "cdp-session-send",
+      "class": "anchor anchorWithStickyNavbar_LWe7",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "The CDPSession instances are used to talk raw Chrome Devtools Protocol:",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Useful links:",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Detaches the CDPSession from the target. Once detached, the CDPSession object won't emit any events and can't be used to send messages.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Usage",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Returns",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Usage",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Arguments",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "method string#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Protocol method name.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "params Object (optional)#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Optional method parameters.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "p",
+    "textContent": "Returns",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Node.jsPythonJava.NET",
+    "attributes": {
+      "id": "",
+      "class": "dropdown__menu",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "API referencePlaywright TestPlaywright LibraryClassesAPIRequestAPIRequestContextAPIResponseAccessibilityBrowserBrowserContextBrowserServerBrowserTypeCDPSessionClockConsoleMessageCoverageDialogDownloadElementHandleFileChooserFrameFrameLocatorJSHandleKeyboardLocatorLoggerMousePageRequestResponseRouteSelectorsTimeoutErrorTouchscreenTracingVideoWebErrorWebSocketWorkerAssertionsAPIResponseAssertionsGenericAssertionsLocatorAssertionsPageAssertionsSnapshotAssertionsTest RunnerFixturesFullConfigFullProjectPlaywright TestTestConfigTestInfoTestInfoErrorTestOptionsTestProjectWorkerInfoTest ReporterLocationReporterSuiteTestCaseTestErrorTestResultTestStepExperimentalAndroidAndroidDeviceAndroidInputAndroidSocketAndroidWebViewElectronElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-menu menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Playwright TestPlaywright LibraryClassesAPIRequestAPIRequestContextAPIResponseAccessibilityBrowserBrowserContextBrowserServerBrowserTypeCDPSessionClockConsoleMessageCoverageDialogDownloadElementHandleFileChooserFrameFrameLocatorJSHandleKeyboardLocatorLoggerMousePageRequestResponseRouteSelectorsTimeoutErrorTouchscreenTracingVideoWebErrorWebSocketWorkerAssertionsAPIResponseAssertionsGenericAssertionsLocatorAssertionsPageAssertionsSnapshotAssertionsTest RunnerFixturesFullConfigFullProjectPlaywright TestTestConfigTestInfoTestInfoErrorTestOptionsTestProjectWorkerInfoTest ReporterLocationReporterSuiteTestCaseTestErrorTestResultTestStepExperimentalAndroidAndroidDeviceAndroidInputAndroidSocketAndroidWebViewElectronElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "APIRequestAPIRequestContextAPIResponseAccessibilityBrowserBrowserContextBrowserServerBrowserTypeCDPSessionClockConsoleMessageCoverageDialogDownloadElementHandleFileChooserFrameFrameLocatorJSHandleKeyboardLocatorLoggerMousePageRequestResponseRouteSelectorsTimeoutErrorTouchscreenTracingVideoWebErrorWebSocketWorker",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "APIResponseAssertionsGenericAssertionsLocatorAssertionsPageAssertionsSnapshotAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "FixturesFullConfigFullProjectPlaywright TestTestConfigTestInfoTestInfoErrorTestOptionsTestProjectWorkerInfo",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "LocationReporterSuiteTestCaseTestErrorTestResultTestStep",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "AndroidAndroidDeviceAndroidInputAndroidSocketAndroidWebViewElectronElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "menu__list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "API referenceClassesCDPSession",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "protocol methods can be called with session.send method.\nprotocol events can be subscribed to with session.on method.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Documentation on DevTools Protocol can be found here: DevTools Protocol Viewer.\nGetting Started with DevTools Protocol: https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Promise<void>#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "method string#\nProtocol method name.\n\n\nparams Object (optional)#\nOptional method parameters.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Promise<Object>#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Methodsdetachsend",
+    "attributes": {
+      "id": "",
+      "class": "table-of-contents table-of-contents__left-border",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "detachsend",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Getting startedPlaywright TrainingLearn VideosFeature Videos",
+    "attributes": {
+      "id": "",
+      "class": "footer__items clean-list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "Stack OverflowDiscordTwitterLinkedIn",
+    "attributes": {
+      "id": "",
+      "class": "footer__items clean-list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "ul",
+    "textContent": "GitHubYouTubeBlogAmbassadors",
+    "attributes": {
+      "id": "",
+      "class": "footer__items clean-list",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Node.js",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Python",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Java",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": ".NET",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "API referencePlaywright TestPlaywright LibraryClassesAPIRequestAPIRequestContextAPIResponseAccessibilityBrowserBrowserContextBrowserServerBrowserTypeCDPSessionClockConsoleMessageCoverageDialogDownloadElementHandleFileChooserFrameFrameLocatorJSHandleKeyboardLocatorLoggerMousePageRequestResponseRouteSelectorsTimeoutErrorTouchscreenTracingVideoWebErrorWebSocketWorkerAssertionsAPIResponseAssertionsGenericAssertionsLocatorAssertionsPageAssertionsSnapshotAssertionsTest RunnerFixturesFullConfigFullProjectPlaywright TestTestConfigTestInfoTestInfoErrorTestOptionsTestProjectWorkerInfoTest ReporterLocationReporterSuiteTestCaseTestErrorTestResultTestStepExperimentalAndroidAndroidDeviceAndroidInputAndroidSocketAndroidWebViewElectronElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Playwright Test",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Playwright Library",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "ClassesAPIRequestAPIRequestContextAPIResponseAccessibilityBrowserBrowserContextBrowserServerBrowserTypeCDPSessionClockConsoleMessageCoverageDialogDownloadElementHandleFileChooserFrameFrameLocatorJSHandleKeyboardLocatorLoggerMousePageRequestResponseRouteSelectorsTimeoutErrorTouchscreenTracingVideoWebErrorWebSocketWorker",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "APIRequest",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "APIRequestContext",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "APIResponse",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Accessibility",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Browser",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "BrowserContext",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "BrowserServer",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "BrowserType",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "CDPSession",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Clock",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "ConsoleMessage",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Coverage",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Dialog",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Download",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "ElementHandle",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "FileChooser",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Frame",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "FrameLocator",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "JSHandle",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Keyboard",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Locator",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Logger",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Mouse",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Page",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Request",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Response",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Route",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Selectors",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TimeoutError",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Touchscreen",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Tracing",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Video",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "WebError",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "WebSocket",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Worker",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "AssertionsAPIResponseAssertionsGenericAssertionsLocatorAssertionsPageAssertionsSnapshotAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "APIResponseAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "GenericAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "LocatorAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "PageAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "SnapshotAssertions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Test RunnerFixturesFullConfigFullProjectPlaywright TestTestConfigTestInfoTestInfoErrorTestOptionsTestProjectWorkerInfo",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Fixtures",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "FullConfig",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "FullProject",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Playwright Test",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestConfig",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestInfo",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestInfoError",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestOptions",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestProject",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "WorkerInfo",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Test ReporterLocationReporterSuiteTestCaseTestErrorTestResultTestStep",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Location",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Reporter",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Suite",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestCase",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestError",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestResult",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "TestStep",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "ExperimentalAndroidAndroidDeviceAndroidInputAndroidSocketAndroidWebViewElectronElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Android",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "AndroidDevice",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "AndroidInput",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "AndroidSocket",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "AndroidWebView",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Electron",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "ElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "API reference",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Classes",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "CDPSession",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs__item breadcrumbs__item--active",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "protocol methods can be called with session.send method.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "protocol events can be subscribed to with session.on method.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Documentation on DevTools Protocol can be found here: DevTools Protocol Viewer.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Getting Started with DevTools Protocol: https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Promise<void>#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "method string#\nProtocol method name.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "params Object (optional)#\nOptional method parameters.",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Promise<Object>#",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Methodsdetachsend",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "detach",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "send",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Getting started",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Playwright Training",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Learn Videos",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Feature Videos",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Stack Overflow",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Discord",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Twitter",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "LinkedIn",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "GitHub",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "YouTube",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Blog",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "li",
+    "textContent": "Ambassadors",
+    "attributes": {
+      "id": "",
+      "class": "footer__item",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "list-item"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Skip to main content",
+    "attributes": {
+      "id": "",
+      "class": "skipToContent_fXgn",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#__docusaurus_skipToContent_fallback",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Playwright",
+    "attributes": {
+      "id": "",
+      "class": "navbar__brand",
+      "href": "https://playwright.dev/",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Docs",
+    "attributes": {
+      "id": "",
+      "class": "navbar__item navbar__link",
+      "href": "https://playwright.dev/docs/intro",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "API",
+    "attributes": {
+      "id": "",
+      "class": "navbar__item navbar__link navbar__link--active",
+      "href": "https://playwright.dev/docs/api/class-playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Node.js",
+    "attributes": {
+      "id": "",
+      "class": "navbar__link",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Node.js",
+    "attributes": {
+      "id": "",
+      "class": "dropdown__link undefined dropdown__link--active",
+      "href": "https://playwright.dev/docs/api/class-cdpsession",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Python",
+    "attributes": {
+      "id": "",
+      "class": "dropdown__link",
+      "href": "https://playwright.dev/python/docs/api/class-cdpsession",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Java",
+    "attributes": {
+      "id": "",
+      "class": "dropdown__link",
+      "href": "https://playwright.dev/java/docs/api/class-cdpsession",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": ".NET",
+    "attributes": {
+      "id": "",
+      "class": "dropdown__link",
+      "href": "https://playwright.dev/dotnet/docs/api/class-cdpsession",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Community",
+    "attributes": {
+      "id": "",
+      "class": "navbar__item navbar__link",
+      "href": "https://playwright.dev/community/welcome",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "navbar__item navbar__link header-github-link",
+      "href": "https://github.com/microsoft/playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "navbar__item navbar__link header-discord-link",
+      "href": "https://aka.ms/playwright/discord",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "API reference",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret menu__link--active",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Playwright Test",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-test",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Playwright Library",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Classes",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret menu__link--active",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "APIRequest",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-apirequest",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "APIRequestContext",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-apirequestcontext",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "APIResponse",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-apiresponse",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Accessibility",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-accessibility",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Browser",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-browser",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "BrowserContext",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-browsercontext",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "BrowserServer",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-browserserver",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "BrowserType",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-browsertype",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "CDPSession",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--active",
+      "href": "https://playwright.dev/docs/api/class-cdpsession",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Clock",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-clock",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "ConsoleMessage",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-consolemessage",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Coverage",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-coverage",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Dialog",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-dialog",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Download",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-download",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "ElementHandle",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-elementhandle",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "FileChooser",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-filechooser",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Frame",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-frame",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "FrameLocator",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-framelocator",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "JSHandle",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-jshandle",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Keyboard",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-keyboard",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Locator",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-locator",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Logger",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-logger",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Mouse",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-mouse",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Page",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-page",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Request",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-request",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Response",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-response",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Route",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-route",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Selectors",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-selectors",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TimeoutError",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-timeouterror",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Touchscreen",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-touchscreen",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Tracing",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-tracing",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Video",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-video",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "WebError",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-weberror",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "WebSocket",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-websocket",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Worker",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-worker",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Assertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "APIResponseAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-apiresponseassertions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "GenericAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-genericassertions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "LocatorAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-locatorassertions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "PageAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-pageassertions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "SnapshotAssertions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-snapshotassertions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Test Runner",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Fixtures",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-fixtures",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "FullConfig",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-fullconfig",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "FullProject",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-fullproject",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Playwright Test",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-test",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestConfig",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testconfig",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestInfo",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testinfo",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestInfoError",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testinfoerror",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestOptions",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testoptions",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestProject",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testproject",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "WorkerInfo",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-workerinfo",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Test Reporter",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Location",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-location",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Reporter",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-reporter",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Suite",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-suite",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestCase",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testcase",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestError",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testerror",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestResult",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-testresult",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "TestStep",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-teststep",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Experimental",
+    "attributes": {
+      "id": "",
+      "class": "menu__link menu__link--sublist menu__link--sublist-caret",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Android",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-android",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "AndroidDevice",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-androiddevice",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "AndroidInput",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-androidinput",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "AndroidSocket",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-androidsocket",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "AndroidWebView",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-androidwebview",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Electron",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-electron",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "ElectronApplication",
+    "attributes": {
+      "id": "",
+      "class": "menu__link",
+      "href": "https://playwright.dev/docs/api/class-electronapplication",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "breadcrumbs__link",
+      "href": "https://playwright.dev/",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline-block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "DevTools Protocol Viewer",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://chromedevtools.github.io/devtools-protocol/",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "​",
+    "attributes": {
+      "id": "",
+      "class": "hash-link",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#methods",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "​",
+    "attributes": {
+      "id": "",
+      "class": "hash-link",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-detach",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Promise",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "void",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "cdp-session-detach-return",
+      "class": "list-anchor-link",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "#",
+    "attributes": {
+      "id": "",
+      "class": "list-anchor",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-detach-return",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "​",
+    "attributes": {
+      "id": "",
+      "class": "hash-link",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-send",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "string",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "cdp-session-send-option-method",
+      "class": "list-anchor-link",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "#",
+    "attributes": {
+      "id": "",
+      "class": "list-anchor",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-send-option-method",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Object",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "cdp-session-send-option-params",
+      "class": "list-anchor-link",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "#",
+    "attributes": {
+      "id": "",
+      "class": "list-anchor",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-send-option-params",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Promise",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Object",
+    "attributes": {
+      "id": "",
+      "class": "",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "",
+    "attributes": {
+      "id": "cdp-session-send-return",
+      "class": "list-anchor-link",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "#",
+    "attributes": {
+      "id": "",
+      "class": "list-anchor",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-send-return",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "PreviousBrowserType",
+    "attributes": {
+      "id": "",
+      "class": "pagination-nav__link pagination-nav__link--prev",
+      "href": "https://playwright.dev/docs/api/class-browsertype",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "NextClock",
+    "attributes": {
+      "id": "",
+      "class": "pagination-nav__link pagination-nav__link--next",
+      "href": "https://playwright.dev/docs/api/class-clock",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Methods",
+    "attributes": {
+      "id": "",
+      "class": "table-of-contents__link toc-highlight",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#methods",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "detach",
+    "attributes": {
+      "id": "",
+      "class": "table-of-contents__link toc-highlight",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-detach",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "send",
+    "attributes": {
+      "id": "",
+      "class": "table-of-contents__link toc-highlight",
+      "href": "https://playwright.dev/docs/api/class-cdpsession#cdp-session-send",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Getting started",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://playwright.dev/docs/intro",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Playwright Training",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://learn.microsoft.com/en-us/training/modules/build-with-playwright/",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Learn Videos",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://playwright.dev/community/learn-videos",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Feature Videos",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://playwright.dev/community/feature-videos",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "a",
+    "textContent": "Stack Overflow",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://stackoverflow.com/questions/tagged/playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Discord",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://aka.ms/playwright/discord",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Twitter",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://twitter.com/playwrightweb",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "LinkedIn",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://www.linkedin.com/company/playwrightweb",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "GitHub",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://github.com/microsoft/playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "YouTube",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Blog",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://dev.to/playwright",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": []
+  },
+  {
+    "tagName": "a",
+    "textContent": "Ambassadors",
+    "attributes": {
+      "id": "",
+      "class": "footer__link-item",
+      "href": "https://playwright.dev/community/ambassadors",
+      "src": ""
+    },
+    "styles": {
+      "display": "inline"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "navbar__toggle clean-btn",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "none"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn toggleButton_gllP",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "SearchK",
+    "attributes": {
+      "id": "",
+      "class": "DocSearch DocSearch-Button",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn theme-back-to-top-button backToTopButton_sjWU",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "block"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "On this page",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn tocCollapsibleButton_TO0P",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  },
+  {
+    "tagName": "button",
+    "textContent": "",
+    "attributes": {
+      "id": "",
+      "class": "clean-btn",
+      "href": "",
+      "src": ""
+    },
+    "styles": {
+      "display": "flex"
+    },
+    "events": [
+      {
+        "event": "onclick",
+        "functionName": "Jr",
+        "functionBody": "function Jr(){}"
+      }
+    ]
+  }
+]

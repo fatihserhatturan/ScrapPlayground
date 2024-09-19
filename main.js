@@ -2,6 +2,7 @@
 const { getNetworkRequests } = require('./src/scripts/NetworkTrafficAnalysis');
 const { scrapElements } = require('./src/scripts/index');
 const { takeScreenShot } = require('./src/scripts/takeScreenShot');
+//const { generateReport } = require('./src/scripts/generateReport');
 const DbRequest = require('./src/models/DbRequest');
 const { insertData, getAllData } = require('./src/dbOptions/mongoOperations');
 
@@ -38,11 +39,22 @@ const { insertData, getAllData } = require('./src/dbOptions/mongoOperations');
     screenshotData = {}; // Hata durumunda boş obje döndürüyoruz
   }
 
+/*
+  //lighthouse raporu oluşturma
+  try {
+    reportData = await generateReport(url);
+    console.log('Ekran Görüntüsü:', JSON.stringify(reportData, null, 2));
+  } catch (error) {
+    console.error('Ekran Görüntüsü Alma Hatası:', error);
+    reportData = {}; // Hata durumunda boş obje döndürüyoruz
+  }*/
+
+  /*
   // Sonuçları tek bir modelde birleştiriyoruz
   const dbjson = new DbRequest(networkData, elementData, screenshotData,fetchedAt = new Date());
   const insertedId = await insertData(dbjson);
     console.log('MongoDB\'ye eklenen veri ID\'si:', insertedId);
 
-  console.log('Birleştirilmiş Sonuç:', JSON.stringify(dbjson, null, 2));
+  console.log('Birleştirilmiş Sonuç:', JSON.stringify(dbjson, null, 2));*/
 
 })();

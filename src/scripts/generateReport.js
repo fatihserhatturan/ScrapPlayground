@@ -1,31 +1,26 @@
-(async () => {
-  try {
-    // Dinamik import ile Lighthouse ve Chrome Launcher'ı yükleyin
-    const lighthouse = await import('lighthouse');
-    const chromeLauncher = await import('chrome-launcher');
+import lighthouse from 'lighthouse';
+import { launch } from 'chrome-launcher';
 
-    // Chrome tarayıcısını başlat
-    const chrome = await chromeLauncher.launch({
-      chromeFlags: ['--headless', '--remote-debugging-port=9222'],  // Lighthouse için gerekli
-    });
+async function generateReport(url) {
+  const chrome = await launch({ chromeFlags: ['--headless'] });
 
-    const options = {
-      logLevel: 'info',
-      output: 'html',
-      onlyCategories: ['performance'],  // Performans raporu
-      port: chrome.port,  // Playwright tarayıcıyla bağlantı kurması için port
-    };
+  // Lighthouse'u çalıştır
+  const options = {
+    logLevel: 'info',
+    output: 'json',
+    onlyCategories: ['performance'], // Performans kategorisine odaklanmak için
+    port: chrome.port,
+  };
 
-    // Lighthouse'u çalıştır
-    const runnerResult = await lighthouse.default('https://vue-indol-two.vercel.app/', options);
+  const runnerResult = await lighthouse(url, options);
 
-    // Raporu alın
-    const reportHtml = runnerResult.report;
-    console.log('Lighthouse raporu:', reportHtml);
+  // Lighthouse raporunu JSON dosyasına yaz
+  const reportJson = JSON.stringify(runnerResult.lhr, null, 2);  // JSON formatına çeviriyoruz
 
-    // Tarayıcıyı kapat
-    await chrome.kill();
-  } catch (error) {
-    console.error('Hata oluştu:', error);
-  }
-})();
+
+  await chrome.kill();
+
+  return reportJson;
+}
+
+module.exports = { generateReport };

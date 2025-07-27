@@ -63,8 +63,6 @@ async function scrapElements(url)  {
 
   await browser.close();
 
-  console.log(`Kazınan veriler şu dosyaya kaydedildi: ${filePath}`);
-
   return fullContent;
 }
 

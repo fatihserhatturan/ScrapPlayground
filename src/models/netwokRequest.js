@@ -5,8 +5,8 @@ class NetworkRequest {
     this.requestType = requestType;
     this.responseType = responseType;
     this.duration = duration;
-    this.status = status; // İsteğin durumu (success / error)
-    this.errorMessage = errorMessage; // Eğer hata varsa hata mesajı
+    this.status = status; 
+    this.errorMessage = errorMessage; 
   }
 }
 
